@@ -1,3 +1,5 @@
 hi this is sample 1 file in localgit repo
 
 some changes have been made
+new line
+
